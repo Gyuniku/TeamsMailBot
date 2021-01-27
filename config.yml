@@ -1,0 +1,15 @@
+mail:
+  from_address: mail_form@test.com
+  password: password
+  to_address: mail_to@test.com
+  base_subject: 'メールタイトル'
+  base_body: 'メール本文'
+db:
+  host: 'db.host.com'
+  user_name: db-user-name
+  db_name: db
+  charset: utf8
+  password: 'password'
+teams:
+  title: 'post_title'
+  uri: 'https://outlook.office.com/webhook/uri'
